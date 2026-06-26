@@ -1,0 +1,25 @@
+﻿# Chroma 向量库（本地数据，不提交）
+.chroma_db/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller 构建产物
+build/
+dist/
+*.spec.bak
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
